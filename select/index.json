@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "上辺の私自身なんだよ (Live)",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2026-03-03T17:22:08.359357Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "上辺の私自身なんだよ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_上辺の私自身なんだよ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "上辺の私自身なんだよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_上辺の私自身なんだよ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "上辺の私自身なんだよ - Superficial Me",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_上辺の私自身なんだよ_-_Superficial_Me_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "上辺の私自身なんだよ (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_上辺の私自身なんだよ_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "上辺の私自身なんだよ\u001f「www.jpopsingles.eu」",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_上辺の私自身なんだよ_「www.jpopsingles.eu」_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "上辺の私自身なんだよ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_上辺の私自身なんだよ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "上辺の私自身なんだよ - Live",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_上辺の私自身なんだよ_-_Live_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
